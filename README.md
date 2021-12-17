@@ -1,2 +1,2 @@
 # git-start
-my journey to learning git hub 
+my journey to learning git 
